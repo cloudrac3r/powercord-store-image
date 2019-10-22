@@ -1,0 +1,7 @@
+{
+	"name": "Store Image",
+	"version": "1.0.0",
+	"description": "Add static images to the GIF picker. You can right click them or use the storeimage command.",
+	"author": "Cadence#3263",
+	"license": "AGPL-3.0"
+}
